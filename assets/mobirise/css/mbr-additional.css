@@ -1228,8 +1228,8 @@ a {
   color: #ffffff;
 }
 .cid-tG5t9tPqLz {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 4rem;
+  padding-bottom: 1rem;
   background-color: #232323;
 }
 .cid-tG5t9tPqLz .mbr-fallback-image.disabled {
@@ -1356,6 +1356,7 @@ a {
 }
 .cid-tG5t9tPqLz H3 {
   color: #4479d9;
+  text-align: center;
 }
 .cid-tG5t9tPqLz .user_name {
   color: #ea0909;
